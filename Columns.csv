@@ -1,0 +1,22 @@
+﻿# COLUMN pl_name:        Planet Name
+# COLUMN hostname:       Host Name
+# COLUMN sy_snum:        Number of Stars
+# COLUMN discoverymethod: Discovery Method
+# COLUMN disc_year:      Discovery Year
+# COLUMN disc_telescope: Discovery Telescope
+# COLUMN pl_orbper:      Orbital Period [days]
+# COLUMN pl_orbpererr1:  Orbital Period Upper Unc. [days]
+# COLUMN pl_orbpererr2:  Orbital Period Lower Unc. [days]
+# COLUMN pl_orbperlim:   Orbital Period Limit Flag
+# COLUMN pl_masse:       Planet Mass [Earth Mass]
+# COLUMN pl_masseerr1:   Planet Mass [Earth Mass] Upper Unc.
+# COLUMN pl_masseerr2:   Planet Mass [Earth Mass] Lower Unc.
+# COLUMN pl_masselim:    Planet Mass [Earth Mass] Limit Flag
+# COLUMN pl_orbeccen:    Eccentricity
+# COLUMN pl_orbeccenerr1: Eccentricity Upper Unc.
+# COLUMN pl_orbeccenerr2: Eccentricity Lower Unc.
+# COLUMN pl_orbeccenlim: Eccentricity Limit Flag
+# COLUMN sy_dist:        Distance [pc]
+# COLUMN sy_disterr1:    Distance [pc] Upper Unc
+# COLUMN sy_disterr2:    Distance [pc] Lower Unc
+# COLUMN rowupdate:      Date of Last Update
