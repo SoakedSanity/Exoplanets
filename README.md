@@ -53,7 +53,7 @@
 3. Запустить код и следовать шагам, выводимым программой в терминале.
 
 Демонстрация вывода - для пяти планет-рекордсменов по самому длинному орбитальному периоду:
-![](https://github.com//SoakedSanity/Exoplanets/blob/main/demonstration.jpg)
+![](https://github.com/SoakedSanity/Exoplanets/blob/main/demonstration.jpg)
 
 ## Список авторов 
 
