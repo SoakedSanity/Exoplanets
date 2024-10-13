@@ -1,3 +1,4 @@
+![](https://github.com/SoakedSanity/Exoplanets/blob/main/1000070383.jpg)
 # Экзопланеты-рекордсмены
 
 Удобное, интуитивно понятное представление данных с сайта "NASA Exoplanet Archive".
